@@ -46,5 +46,6 @@ else:
     print('Please Enter correct details and try again! ')               #This would be automated in future commits soon
 
 time.sleep(3)
+#time lapse
 
 browser.quit()
